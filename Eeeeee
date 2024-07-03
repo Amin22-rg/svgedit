@@ -1,0 +1,5 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="green" />
+  <polygon points="100,10 40,198 190,78 10,78 160,198" fill="yellow" />
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="24" fill="black">درجه</text>
+</svg>
